@@ -2,4 +2,4 @@
 
 ## How to use
 
-double click exe, wait until close
+run exe as admin, wait until close
